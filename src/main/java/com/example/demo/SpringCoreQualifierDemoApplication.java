@@ -17,5 +17,6 @@ public class SpringCoreQualifierDemoApplication {
 		vehicle.service();
 		
 		context.close();
+		
 	}
 }
